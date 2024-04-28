@@ -1,0 +1,23 @@
+{
+  "name": "github",
+  "version": "2.0.0",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "LLotme <lottiluckyme@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "left-pad": "^1.0.0",
+    "package": "^1.0.1",
+    "package.json": "^2.0.1",
+    "pkg.json": "^2.0.8"
+  },
+  "devDependencies": {},
+  "description": "",
+  "repository": "https://github.com/LLotme/GitHub.git",
+  "private": true
+}
